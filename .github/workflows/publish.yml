@@ -4,7 +4,10 @@ on:
   push:
     branches: [master]
   schedule:
-    - cron: "0 * * * *"   # каждый час, время UTC
+    # Стандартные слоты 10:00 / 14:30 / 19:00 МСК = 07:00 / 11:30 / 16:00 UTC
+    - cron: "0 7 * * *"
+    - cron: "30 11 * * *"
+    - cron: "0 16 * * *"
   workflow_dispatch: {}    # кнопка "Run workflow" для ручного теста
 
 permissions:
