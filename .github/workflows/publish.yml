@@ -1,0 +1,32 @@
+name: Publish to Telegram
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # каждый час, время UTC
+  workflow_dispatch: {}    # кнопка "Run workflow" для ручного теста
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run publisher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: python src/telegram_publisher.py
+
+      - name: Commit and push updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pipeline_state.json used-news.md publish_log.txt
+          git diff --cached --quiet || git commit -m "Auto-publish: update state [skip ci]"
+          git push

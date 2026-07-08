@@ -1,0 +1,6 @@
+# Секреты — токен живёт только локально и в GitHub Secrets, в git не попадает
+telegram_token.txt
+
+# Python
+__pycache__/
+*.pyc

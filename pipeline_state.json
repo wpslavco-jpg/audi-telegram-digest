@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "projectName": "Audi Telegram Digest",
+    "timezone": "Europe/Moscow",
+    "slots": ["10:00", "14:30", "19:00"],
+    "lastParseAt": null,
+    "lastPublishAt": null
+  },
+  "posts": []
+}
