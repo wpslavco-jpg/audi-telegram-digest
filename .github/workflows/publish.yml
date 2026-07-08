@@ -1,6 +1,8 @@
 name: Publish to Telegram
 
 on:
+  push:
+    branches: [master]
   schedule:
     - cron: "0 * * * *"   # каждый час, время UTC
   workflow_dispatch: {}    # кнопка "Run workflow" для ручного теста
