@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-09T11:49:55.255316Z"
+    "lastPublishAt": "2026-07-09T16:18:07.688588Z"
   },
   "posts": [
     {
@@ -52,11 +52,11 @@
       "linkUrl": "https://www.avtovzglyad.ru/sovety/ekspluataciya/73219-2026-07-07-gazovaya-lovushka-stoitli-navolne-toplivnogo-krizisa-osnaschat-mashinu-gbo/",
       "source": "avtovzglyad.ru",
       "publishedAtSource": "2026-07-07T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-07-09T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-09T16:18:06.188233Z",
+      "telegramMessageId": 107121,
       "error": null
     }
   ]
