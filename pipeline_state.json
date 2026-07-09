@@ -2,9 +2,13 @@
   "meta": {
     "projectName": "Audi Telegram Digest",
     "timezone": "Europe/Moscow",
-    "slots": ["10:00", "14:30", "19:00"],
+    "slots": [
+      "10:00",
+      "14:30",
+      "19:00"
+    ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": null
+    "lastPublishAt": "2026-07-09T07:47:53.375586Z"
   },
   "posts": [
     {
@@ -16,11 +20,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/417739-moskvich",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-08T14:16:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-09T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-09T07:47:51.875309Z",
+      "telegramMessageId": 107089,
       "error": null
     },
     {
