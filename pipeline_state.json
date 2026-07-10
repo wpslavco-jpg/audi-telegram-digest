@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-09T16:18:07.688588Z"
+    "lastPublishAt": "2026-07-10T11:54:36.862731Z"
   },
   "posts": [
     {
@@ -68,11 +68,11 @@
       "linkUrl": "https://www.autonews.ru/news/6a4f419d9a79479f1821b5cf",
       "source": "autonews.ru",
       "publishedAtSource": "2026-07-09T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-10T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-10T11:54:35.362012Z",
+      "telegramMessageId": 107160,
       "error": null
     },
     {
