@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-11T07:47:08.724841Z"
+    "lastPublishAt": "2026-07-11T14:40:23.714030Z"
   },
   "posts": [
     {
@@ -116,11 +116,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/417853-avtovaz-lada-vesta-aura",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-09T14:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-11T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-11T14:40:22.213226Z",
+      "telegramMessageId": 107267,
       "error": null
     }
   ]
