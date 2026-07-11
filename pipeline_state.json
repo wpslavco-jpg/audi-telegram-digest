@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-10T17:41:12.384636Z"
+    "lastPublishAt": "2026-07-11T07:47:08.724841Z"
   },
   "posts": [
     {
@@ -100,11 +100,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/417877-honda-vezel",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-10T09:45:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-11T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-11T07:47:07.205169Z",
+      "telegramMessageId": 107193,
       "error": null
     },
     {
