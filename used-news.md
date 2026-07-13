@@ -9,3 +9,7 @@
 - Дешевле «китайцев»: в продажу вернулся доступный кроссовер Skoda Karoq | https://avtonovostidnya.ru/avtorynok/417880-skoda-karoq | 10.07.2026 10:28
 - В России начали продавать надежный и дешевый кроссовер Honda Vezel | https://avtonovostidnya.ru/avtorynok/417877-honda-vezel | 10.07.2026 09:45
 - Больше опций за те же деньги: с чем теперь продаются LADA Vesta и Aura | https://avtonovostidnya.ru/avtorynok/417853-avtovaz-lada-vesta-aura | 09.07.2026 14:00
+- Крупнейший в России производитель грузовиков приостановил производство | https://avtonovostidnya.ru/avtoprom/417934-kamaz | 13.07.2026 09:33
+- «Это плохой сигнал»: эксперт раскрыл, почему россияне перестали покупать автомобили | https://avtonovostidnya.ru/avtorynok/417931 | 13.07.2026 08:39
+- В России начали продавать дешевый и надежный кроссовер Volkswagen | https://avtonovostidnya.ru/avtorynok/417929-volkswagen | 12.07.2026 11:26
+- Названы самые надежные автомобили Mercedes-Benz | https://avtonovostidnya.ru/samye/417922-whatcar-motoreasy-mercedes-2 | 12.07.2026 08:53
