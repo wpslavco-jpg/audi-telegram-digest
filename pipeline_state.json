@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-11T14:40:23.714030Z"
+    "lastPublishAt": "2026-07-13T15:58:09.022621Z"
   },
   "posts": [
     {
@@ -132,11 +132,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/417934-kamaz",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-13T09:33:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-13T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-13T15:58:07.522363Z",
+      "telegramMessageId": 107914,
       "error": null
     },
     {
