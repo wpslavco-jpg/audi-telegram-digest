@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-13T15:58:09.022621Z"
+    "lastPublishAt": "2026-07-13T16:15:27.859402Z"
   },
   "posts": [
     {
@@ -148,12 +148,12 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/417931",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-13T08:39:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-07-13T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
-      "error": null
+      "sentAt": "2026-07-13T16:15:26.358732Z",
+      "telegramMessageId": 107915,
+      "error": "markdownv2_failed_fallback_plain: {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: can't parse entities: Character '.' is reserved and must be escaped with the preceding '\\\\'\"}"
     },
     {
       "id": "p-2026-07-13-3",
