@@ -13,3 +13,8 @@
 - «Это плохой сигнал»: эксперт раскрыл, почему россияне перестали покупать автомобили | https://avtonovostidnya.ru/avtorynok/417931 | 13.07.2026 08:39
 - В России начали продавать дешевый и надежный кроссовер Volkswagen | https://avtonovostidnya.ru/avtorynok/417929-volkswagen | 12.07.2026 11:26
 - Названы самые надежные автомобили Mercedes-Benz | https://avtonovostidnya.ru/samye/417922-whatcar-motoreasy-mercedes-2 | 12.07.2026 08:53
+- В Россию вернулся дешевый и надежный кроссовер Kia Seltos | https://avtonovostidnya.ru/avtorynok/417964-kia-seltos | 14.07.2026 11:37
+- Компактвэны Suzuki Solio привозят в Россию с японского рынка | https://avtonovostidnya.ru/avtorynok/417960-suzuki-solio | 14.07.2026 08:25
+- Mitsubishi Eclipse Cross продается от 2,1 млн из Японии и ОАЭ | https://avtonovostidnya.ru/avtorynok/417946-mitsubishi-eclipse-cross | 13.07.2026 15:13
+- Скидку при покупке российских электромобилей могут существенно сократить | https://avtonovostidnya.ru/avtorynok/417993 | 14.07.2026 10:00
+- LADA Aura получила набор цифровых систем для облегчения эксплуатации | https://avtonovostidnya.ru/avtorynok/417973-avtovaz-lada-aura | 14.07.2026 09:13
