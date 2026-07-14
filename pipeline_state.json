@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-13T16:15:27.859402Z"
+    "lastPublishAt": "2026-07-14T11:32:07.098745Z"
   },
   "posts": [
     {
@@ -164,11 +164,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/417929-volkswagen",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-12T11:26:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-14T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-14T11:32:03.763870Z",
+      "telegramMessageId": 107963,
       "error": null
     },
     {
@@ -180,11 +180,11 @@
       "linkUrl": "https://avtonovostidnya.ru/samye/417922-whatcar-motoreasy-mercedes-2",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-12T08:53:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-14T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-14T11:32:05.598391Z",
+      "telegramMessageId": 107964,
       "error": null
     }
   ]
