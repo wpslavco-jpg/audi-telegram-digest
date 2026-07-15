@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-14T16:04:43.720196Z"
+    "lastPublishAt": "2026-07-15T10:22:54.632532Z"
   },
   "posts": [
     {
@@ -212,11 +212,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/417960-suzuki-solio",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-14T08:25:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-15T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-15T10:22:53.131867Z",
+      "telegramMessageId": 108062,
       "error": null
     },
     {
