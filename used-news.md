@@ -18,3 +18,8 @@
 - Mitsubishi Eclipse Cross продается от 2,1 млн из Японии и ОАЭ | https://avtonovostidnya.ru/avtorynok/417946-mitsubishi-eclipse-cross | 13.07.2026 15:13
 - Скидку при покупке российских электромобилей могут существенно сократить | https://avtonovostidnya.ru/avtorynok/417993 | 14.07.2026 10:00
 - LADA Aura получила набор цифровых систем для облегчения эксплуатации | https://avtonovostidnya.ru/avtorynok/417973-avtovaz-lada-aura | 14.07.2026 09:13
+- Революция в легендарном внедорожнике: АвтоВАЗ рассказал, как защитил «Ниву» от ржавчины | https://avtonovostidnya.ru/avtoprom/418072-avtovaz-lada-niva | 15.07.2026 12:35
+- В России появится новый отечественный кроссовер, которому не страшна нехватка топлива | https://avtonovostidnya.ru/novinki/418061-evolute-i-sky | 15.07.2026 09:26
+- В России начнут выпускать новый семейный внедорожник с защитой от ржавчины (Haval H9) | https://avtonovostidnya.ru/avtoprom/418059-haval-h9 | 15.07.2026 08:53
+- Мировой рейтинг продаж автомобилей: на каком месте оказалась Россия в первой половине 2026 года | https://avtonovostidnya.ru/samye/418082 | 15.07.2026 13:15
+- «АвтоВАЗ» поставил точку в возврате опций: какие системы получила LADA Vesta | https://avtonovostidnya.ru/avtorynok/418051-avtovaz-lada-vesta | 14.07.2026 19:39
