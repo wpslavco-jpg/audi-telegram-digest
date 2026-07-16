@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-15T16:01:18.495267Z"
+    "lastPublishAt": "2026-07-16T07:01:11.116335Z"
   },
   "posts": [
     {
@@ -260,11 +260,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/417973-avtovaz-lada-aura",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-14T09:13:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-16T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-16T07:01:09.615721Z",
+      "telegramMessageId": 108192,
       "error": null
     },
     {
