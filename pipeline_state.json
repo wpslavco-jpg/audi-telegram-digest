@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-16T07:01:11.116335Z"
+    "lastPublishAt": "2026-07-16T11:31:03.666143Z"
   },
   "posts": [
     {
@@ -276,11 +276,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/418072-avtovaz-lada-niva",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-15T12:35:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-16T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-16T11:31:02.165496Z",
+      "telegramMessageId": 108202,
       "error": null
     },
     {
