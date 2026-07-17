@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-16T16:01:03.864751Z"
+    "lastPublishAt": "2026-07-17T07:00:55.245499Z"
   },
   "posts": [
     {
@@ -308,11 +308,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/418059-haval-h9",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-15T08:53:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-17T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-17T07:00:53.651284Z",
+      "telegramMessageId": 108254,
       "error": null
     },
     {
