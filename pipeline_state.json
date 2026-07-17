@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-17T07:00:55.245499Z"
+    "lastPublishAt": "2026-07-17T11:30:52.178206Z"
   },
   "posts": [
     {
@@ -324,12 +324,12 @@
       "linkUrl": "https://avtonovostidnya.ru/samye/418082",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-15T13:15:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-17T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
-      "error": null
+      "sentAt": "2026-07-17T11:30:50.677884Z",
+      "telegramMessageId": 108283,
+      "error": "markdownv2_failed_fallback_plain: {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: can't parse entities: Character '.' is reserved and must be escaped with the preceding '\\\\'\"}"
     },
     {
       "id": "p-2026-07-15-5",

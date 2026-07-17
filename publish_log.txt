@@ -88,3 +88,6 @@
 [2026-07-17 07:00:53] Найдено к отправке: 1
 [2026-07-17 07:00:53] OK: p-2026-07-15-3 -> message_id=108254
 [2026-07-17 07:00:55] pipeline_state.json обновлён.
+[2026-07-17 11:30:49] Найдено к отправке: 1
+[2026-07-17 11:30:50] OK: p-2026-07-15-4 -> message_id=108283 (markdownv2_failed_fallback_plain: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Character '.' is reserved and must be escaped with the preceding '\\'"})
+[2026-07-17 11:30:52] pipeline_state.json обновлён.
