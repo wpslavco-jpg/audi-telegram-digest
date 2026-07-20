@@ -23,3 +23,10 @@
 - В России начнут выпускать новый семейный внедорожник с защитой от ржавчины (Haval H9) | https://avtonovostidnya.ru/avtoprom/418059-haval-h9 | 15.07.2026 08:53
 - Мировой рейтинг продаж автомобилей: на каком месте оказалась Россия в первой половине 2026 года | https://avtonovostidnya.ru/samye/418082 | 15.07.2026 13:15
 - «АвтоВАЗ» поставил точку в возврате опций: какие системы получила LADA Vesta | https://avtonovostidnya.ru/avtorynok/418051-avtovaz-lada-vesta | 14.07.2026 19:39
+- Audi готовит новый RS Q5: «заряженный» кроссовер проехался на камеру | https://www.kolesa.ru/news/novyi-audi-rs-q5-pervye-izobrazeniia | 17.07.2026
+- Семиместный кроссовер Toyota Rush доступен для заказа во Владивостоке | https://avtonovostidnya.ru/avtorynok/418307-toyota-rush | 20.07.2026 12:27
+- Новая Chevrolet Captiva: цены стартуют от 2 200 000 рублей | https://avtonovostidnya.ru/avtorynok/418292-chevrolet-captiva | 20.07.2026 09:36
+- Автомобильный рынок: на 29-й неделе 2026 года реализовано 25,1 тыс. новых легковых автомобилей | https://avtonovostidnya.ru/avtorynok/418290 | 20.07.2026 08:39
+- Завод Haval приостанавливает производство с 20 июля | https://avtonovostidnya.ru/avtoprom/418266-haval | 20.07.2026 07:00
+- Toyota Corolla Fielder доступна для заказа во Владивостоке за 1 990 000 рублей | https://avtonovostidnya.ru/avtorynok/418264-toyota | 20.07.2026 07:00
+- Nissan Magnite: цены стартуют от 1 835 000 рублей | https://avtonovostidnya.ru/avtorynok/418262-nissan-magnite | 19.07.2026 11:47
