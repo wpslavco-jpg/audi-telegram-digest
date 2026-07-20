@@ -66,12 +66,19 @@ def escape_markdown_v2(text: str) -> str:
     return text
 
 
+def escape_markdown_v2_url(url: str) -> str:
+    """Экранирует URL внутри inline-ссылки MarkdownV2: там нужно
+    экранировать только \\ и ) (по спецификации Telegram), а не
+    весь набор спецсимволов — иначе сломается сам адрес."""
+    return url.replace("\\", "\\\\").replace(")", "\\)")
+
+
 def build_markdown_v2(post: dict) -> str:
     """Форматирует пост в MarkdownV2 сообщение для Telegram."""
     hook = escape_markdown_v2(post.get("hook", "").strip())
     body = escape_markdown_v2(post.get("body", "").strip())
-    link_word = post.get("linkWord", "")
-    link_url = post.get("linkUrl", "")
+    link_word = escape_markdown_v2(post.get("linkWord", ""))
+    link_url = escape_markdown_v2_url(post.get("linkUrl", ""))
 
     link_part = f"[{link_word}]({link_url})" if link_word and link_url else ""
 
