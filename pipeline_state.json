@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-21T07:00:48.642557Z"
+    "lastPublishAt": "2026-07-21T11:30:38.523255Z"
   },
   "posts": [
     {
@@ -372,11 +372,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/418307-toyota-rush",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-20T12:27:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-21T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-21T11:30:37.022394Z",
+      "telegramMessageId": 108658,
       "error": null
     },
     {
