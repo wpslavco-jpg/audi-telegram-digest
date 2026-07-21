@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-17T16:00:57.751832Z"
+    "lastPublishAt": "2026-07-21T07:00:48.642557Z"
   },
   "posts": [
     {
@@ -356,11 +356,11 @@
       "linkUrl": "https://www.kolesa.ru/news/novyi-audi-rs-q5-pervye-izobrazeniia",
       "source": "kolesa.ru",
       "publishedAtSource": "2026-07-17T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-21T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-21T07:00:47.142251Z",
+      "telegramMessageId": 108544,
       "error": null
     },
     {
