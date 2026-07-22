@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-22T07:00:46.813116Z"
+    "lastPublishAt": "2026-07-22T11:30:33.939581Z"
   },
   "posts": [
     {
@@ -420,11 +420,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/418266-haval",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-20T07:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-07-22T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-22T11:30:32.434656Z",
+      "telegramMessageId": 108869,
       "error": null
     },
     {
