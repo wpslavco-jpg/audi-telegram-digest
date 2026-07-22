@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-21T16:00:52.037039Z"
+    "lastPublishAt": "2026-07-22T07:00:46.813116Z"
   },
   "posts": [
     {
@@ -404,11 +404,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/418290",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-20T08:39:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-07-22T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-22T07:00:45.312719Z",
+      "telegramMessageId": 108854,
       "error": null
     },
     {
