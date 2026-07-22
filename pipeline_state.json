@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-22T11:30:33.939581Z"
+    "lastPublishAt": "2026-07-22T16:00:50.170102Z"
   },
   "posts": [
     {
@@ -436,11 +436,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/418264-toyota",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-07-20T07:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-07-22T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-07-22T16:00:48.669427Z",
+      "telegramMessageId": 108885,
       "error": null
     },
     {
