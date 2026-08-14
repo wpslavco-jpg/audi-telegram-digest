@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-07-23T07:00:44.973515Z"
+    "lastPublishAt": "2026-08-14T16:00:42.170672Z"
   },
   "posts": [
     {
@@ -468,11 +468,11 @@
       "linkUrl": "https://avtonovostidnya.ru/novinki/419654-haval-h9",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-14T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-08-14T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-14T16:00:40.670038Z",
+      "telegramMessageId": 115649,
       "error": null
     },
     {
