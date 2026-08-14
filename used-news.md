@@ -30,3 +30,8 @@
 - Завод Haval приостанавливает производство с 20 июля | https://avtonovostidnya.ru/avtoprom/418266-haval | 20.07.2026 07:00
 - Toyota Corolla Fielder доступна для заказа во Владивостоке за 1 990 000 рублей | https://avtonovostidnya.ru/avtorynok/418264-toyota | 20.07.2026 07:00
 - Nissan Magnite: цены стартуют от 1 835 000 рублей | https://avtonovostidnya.ru/avtorynok/418262-nissan-magnite | 19.07.2026 11:47
+- «Яндекс», голосовой ассистент и прочее: внедорожники Haval H9 получили новые возможности | https://avtonovostidnya.ru/novinki/419654-haval-h9 | 14.08.2026
+- 192 силы и 7,8 секунды до «сотни»: каким будет новый кроссовер Changan для России | https://avtonovostidnya.ru/novinki/419451-changan-uni-z | 13.08.2026
+- Минус 925 тысяч от государства и «Алиса» на борту. Открылся предзаказ на новый семейный кроссовер от «Яндекса» | https://avtonovostidnya.ru/avtorynok/419244-umo-yandex | 13.08.2026
+- В России сертифицировали три внедорожника калининградской сборки | https://avtonovostidnya.ru/avtoprom/419297-great-wall | 13.08.2026
+- На миллион дешевле, чем Geely и Changan: в Россию привезли новый дешевый японский кроссовер (Suzuki S-Presso) | https://avtonovostidnya.ru/avtorynok/418948-suzuki-s-presso | 13.08.2026
