@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-15T11:30:30.482246Z"
+    "lastPublishAt": "2026-08-15T16:00:40.955540Z"
   },
   "posts": [
     {
@@ -516,11 +516,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/419297-great-wall",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-13T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-08-15T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-15T16:00:39.455265Z",
+      "telegramMessageId": 115757,
       "error": null
     },
     {
