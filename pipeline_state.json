@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-15T16:00:40.955540Z"
+    "lastPublishAt": "2026-08-16T07:00:39.263839Z"
   },
   "posts": [
     {
@@ -532,11 +532,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/418948-suzuki-s-presso",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-13T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-08-16T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-16T07:00:37.763536Z",
+      "telegramMessageId": 115819,
       "error": null
     }
   ]
