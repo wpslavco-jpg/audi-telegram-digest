@@ -35,3 +35,8 @@
 - Минус 925 тысяч от государства и «Алиса» на борту. Открылся предзаказ на новый семейный кроссовер от «Яндекса» | https://avtonovostidnya.ru/avtorynok/419244-umo-yandex | 13.08.2026
 - В России сертифицировали три внедорожника калининградской сборки | https://avtonovostidnya.ru/avtoprom/419297-great-wall | 13.08.2026
 - На миллион дешевле, чем Geely и Changan: в Россию привезли новый дешевый японский кроссовер (Suzuki S-Presso) | https://avtonovostidnya.ru/avtorynok/418948-suzuki-s-presso | 13.08.2026
+- В России возобновилось производство самых популярных и дешевых автомобилей (АвтоВАЗ, Lada Azimut) | https://avtonovostidnya.ru/avtoprom/419723-avtovaz-lada | 17.08.2026
+- Новый кроссовер от «Яндекса» покорил россиян и обошел «китайцев». Сколько UMO 5 купили в июле | https://avtonovostidnya.ru/samye/419740-umo-avatr | 17.08.2026
+- Зарядка за 20 минут и до 8 лет гарантии: раскрыты комплектации и цены нового гибридного Geely для России | https://avtonovostidnya.ru/novinki/419167-geely-ex5 | 17.08.2026
+- Полный привод и японская сборка за 1,4 млн рублей. В России начали продавать новую дешевую Toyota (Probox) | https://avtonovostidnya.ru/avtorynok/418834-toyota-probox | 17.08.2026
+- Самый «дерзкий» за всю историю: УАЗ анонсировал новый настоящий внедорожник | https://avtonovostidnya.ru/novinki/419748-uaz | 17.08.2026
