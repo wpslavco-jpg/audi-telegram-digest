@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-16T07:00:39.263839Z"
+    "lastPublishAt": "2026-08-18T07:00:38.340957Z"
   },
   "posts": [
     {
@@ -548,11 +548,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/419723-avtovaz-lada",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-17T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-08-18T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-18T07:00:36.839275Z",
+      "telegramMessageId": 117480,
       "error": null
     },
     {
