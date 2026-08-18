@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-18T07:00:38.340957Z"
+    "lastPublishAt": "2026-08-18T11:30:33.403328Z"
   },
   "posts": [
     {
@@ -564,11 +564,11 @@
       "linkUrl": "https://avtonovostidnya.ru/samye/419740-umo-avatr",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-17T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "14:30",
       "scheduledFor": "2026-08-18T11:30:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-18T11:30:31.902595Z",
+      "telegramMessageId": 117498,
       "error": null
     },
     {
