@@ -4,3 +4,6 @@ telegram_token.txt
 # Python
 __pycache__/
 *.pyc
+
+# Личные настройки Claude Code (разрешения и т.п.) — не для публичного репо
+.claude/settings.local.json

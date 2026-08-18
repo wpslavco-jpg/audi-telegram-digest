@@ -24,9 +24,26 @@ STATE_PATH = BASE_DIR / "pipeline_state.json"
 TOKEN_PATH = BASE_DIR / "telegram_token.txt"
 USED_NEWS_PATH = BASE_DIR / "used-news.md"
 LOG_PATH = BASE_DIR / "publish_log.txt"
+CHANNELS_PATH = BASE_DIR / "channels.json"
 
-TELEGRAM_CHAT_ID = "@audi_maniya"
-MESSAGE_THREAD_ID = 1050
+
+def load_channels() -> dict:
+    """Загружает channels.json. Возвращает {channelId: {chatId, messageThreadId, name}}
+    и defaultChannelId."""
+    with open(CHANNELS_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    by_id = {c["id"]: c for c in data.get("channels", [])}
+    return by_id, data.get("defaultChannelId")
+
+
+def resolve_channel(post: dict, channels_by_id: dict, default_channel_id: str) -> dict:
+    """Определяет, в какой канал уходит пост: post['channelId'] если задан
+    и существует, иначе канал по умолчанию."""
+    channel_id = post.get("channelId") or default_channel_id
+    channel = channels_by_id.get(channel_id)
+    if channel is None:
+        channel = channels_by_id.get(default_channel_id)
+    return channel
 
 
 def log(msg: str):
@@ -89,12 +106,12 @@ def build_markdown_v2(post: dict) -> str:
     return message
 
 
-def send_message(token: str, text: str):
-    """Отправляет сообщение через Telegram Bot API с MarkdownV2."""
+def send_message(token: str, text: str, channel: dict):
+    """Отправляет сообщение через Telegram Bot API с MarkdownV2 в указанный канал."""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "message_thread_id": MESSAGE_THREAD_ID,
+        "chat_id": channel["chatId"],
+        "message_thread_id": channel.get("messageThreadId"),
         "text": text,
         "parse_mode": "MarkdownV2",
     }
@@ -158,9 +175,13 @@ def main():
     if not STATE_PATH.exists():
         log("ОШИБКА: не найден pipeline_state.json.")
         sys.exit(0)
+    if not CHANNELS_PATH.exists():
+        log("ОШИБКА: не найден channels.json.")
+        sys.exit(0)
 
     token = read_token()
     state = load_json(STATE_PATH)
+    channels_by_id, default_channel_id = load_channels()
 
     now = datetime.now(timezone.utc)
     due = []
@@ -187,8 +208,16 @@ def main():
     changed = False
 
     for post in due:
+        channel = resolve_channel(post, channels_by_id, default_channel_id)
+        if channel is None:
+            post["status"] = "ошибка"
+            post["error"] = f"channelId={post.get('channelId')!r} не найден в channels.json"
+            changed = True
+            log(f"ОШИБКА: для {post.get('id')} не найден канал {post.get('channelId')!r}")
+            continue
+
         text = build_markdown_v2(post)
-        result, err = send_message(token, text)
+        result, err = send_message(token, text, channel)
 
         if result and result.get("ok"):
             post["status"] = "опубликовано"

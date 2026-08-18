@@ -1,0 +1,11 @@
+{
+  "defaultChannelId": "default",
+  "channels": [
+    {
+      "id": "default",
+      "name": "Audi чат — Новости",
+      "chatId": "@audi_maniya",
+      "messageThreadId": 1050
+    }
+  ]
+}

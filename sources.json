@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "url": "autonews.ru",
+      "priority": "general",
+      "notes": ""
+    },
+    {
+      "url": "kolesa.ru/news",
+      "priority": "general",
+      "notes": ""
+    },
+    {
+      "url": "avtonovostidnya.ru",
+      "priority": "general",
+      "notes": "Основной источник — быстро обновляется, хорошее покрытие"
+    },
+    {
+      "url": "iz.ru/rubric/auto",
+      "priority": "general",
+      "notes": "ВАЖНО: брать только эту рубрику, не главную страницу iz.ru (там много военно-политических новостей)"
+    },
+    {
+      "url": "news.drom.ru/audi/",
+      "priority": "audi",
+      "notes": "Проверять в первую очередь для приоритета Audi"
+    },
+    {
+      "url": "avtovzglyad.ru/obshestvo/dorogi/",
+      "priority": "fuel",
+      "notes": "Рубрика про топливо/АЗС. ВАЖНО: не заходить в avtovzglyad.ru/voennaya-tehnika/ — военно-политический контент"
+    }
+  ],
+  "blocked": [
+    {
+      "url": "dzen.ru",
+      "reason": "блокирует автоматический доступ, robots.txt + капча"
+    },
+    {
+      "url": "motor.ru",
+      "reason": "редиректит на форму авторизации"
+    }
+  ]
+}
