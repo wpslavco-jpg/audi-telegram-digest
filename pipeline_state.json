@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-18T11:30:33.403328Z"
+    "lastPublishAt": "2026-08-18T16:00:40.468795Z"
   },
   "posts": [
     {
@@ -580,11 +580,11 @@
       "linkUrl": "https://avtonovostidnya.ru/novinki/419167-geely-ex5",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-17T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-08-18T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-18T16:00:38.967936Z",
+      "telegramMessageId": 117530,
       "error": null
     },
     {
