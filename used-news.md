@@ -40,3 +40,7 @@
 - Зарядка за 20 минут и до 8 лет гарантии: раскрыты комплектации и цены нового гибридного Geely для России | https://avtonovostidnya.ru/novinki/419167-geely-ex5 | 17.08.2026
 - Полный привод и японская сборка за 1,4 млн рублей. В России начали продавать новую дешевую Toyota (Probox) | https://avtonovostidnya.ru/avtorynok/418834-toyota-probox | 17.08.2026
 - Самый «дерзкий» за всю историю: УАЗ анонсировал новый настоящий внедорожник | https://avtonovostidnya.ru/novinki/419748-uaz | 17.08.2026
+- В России увеличат производство популярных кроссоверов: что изменится на заводе Haval | https://avtonovostidnya.ru/avtoprom/419904-haval | 19.08.2026
+- Evolute переписал цены на электрокроссовер i-Joy: сколько он стоит теперь | https://avtonovostidnya.ru/avtorynok/419829-evolute-i-joy | 19.08.2026
+- УАЗ запустил новое производство для своих автомобилей: что начали выпускать | https://avtonovostidnya.ru/avtoprom/419817-uaz | 18.08.2026
+- В России начнут продавать новый семейный внедорожник производства УАЗа (Sollers S9) | https://avtonovostidnya.ru/avtorynok/419646-sollers-s9-iv | 14.08.2026
