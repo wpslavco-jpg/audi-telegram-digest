@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-20T16:00:41.133884Z"
+    "lastPublishAt": "2026-08-21T07:00:42.852439Z"
   },
   "posts": [
     {
@@ -660,11 +660,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/419817-uaz",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-18T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-08-21T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-21T07:00:41.347301Z",
+      "telegramMessageId": 117915,
       "error": null
     },
     {
