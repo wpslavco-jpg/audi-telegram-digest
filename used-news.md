@@ -44,3 +44,7 @@
 - Evolute переписал цены на электрокроссовер i-Joy: сколько он стоит теперь | https://avtonovostidnya.ru/avtorynok/419829-evolute-i-joy | 19.08.2026
 - УАЗ запустил новое производство для своих автомобилей: что начали выпускать | https://avtonovostidnya.ru/avtoprom/419817-uaz | 18.08.2026
 - В России начнут продавать новый семейный внедорожник производства УАЗа (Sollers S9) | https://avtonovostidnya.ru/avtorynok/419646-sollers-s9-iv | 14.08.2026
+- Avatr готовит первый гибрид для России: чем удивит 502-сильный кроссовер | https://avtonovostidnya.ru/novinki/420063-avatr | 24.08.2026 12:32
+- Geely во второй раз за месяц переписала цены в России: сколько теперь стоят Coolray, Cityray и Okavango | https://avtonovostidnya.ru/avtorynok/420035-geely-coolray-cityray-okavango | 24.08.2026 07:55
+- В Россию приехал новый надежный и недорогой кроссовер Volkswagen (T-Roc) | https://avtonovostidnya.ru/avtorynok/420069-volkswagen | 24.08.2026 16:25
+- В Россию привезли новый дешевый и надежный кроссовер Honda (XR-V) | https://avtonovostidnya.ru/avtorynok/420066-honda-xr-v | 24.08.2026 14:08
