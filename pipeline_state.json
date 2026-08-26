@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-26T07:00:37.411830Z"
+    "lastPublishAt": "2026-08-26T16:00:41.425679Z"
   },
   "posts": [
     {
@@ -724,11 +724,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/420069-volkswagen",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-24T16:25:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-08-26T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-26T16:00:39.924894Z",
+      "telegramMessageId": 118564,
       "error": null
     },
     {
