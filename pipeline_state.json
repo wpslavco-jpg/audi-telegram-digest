@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-27T07:00:38.666012Z"
+    "lastPublishAt": "2026-08-27T16:00:43.909909Z"
   },
   "posts": [
     {
@@ -756,11 +756,11 @@
       "linkUrl": "https://avtonovostidnya.ru/transport/419142/amp",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-26T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-08-27T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-27T16:00:42.409221Z",
+      "telegramMessageId": 118818,
       "error": null
     },
     {
