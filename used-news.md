@@ -48,3 +48,7 @@
 - Geely во второй раз за месяц переписала цены в России: сколько теперь стоят Coolray, Cityray и Okavango | https://avtonovostidnya.ru/avtorynok/420035-geely-coolray-cityray-okavango | 24.08.2026 07:55
 - В Россию приехал новый надежный и недорогой кроссовер Volkswagen (T-Roc) | https://avtonovostidnya.ru/avtorynok/420069-volkswagen | 24.08.2026 16:25
 - В Россию привезли новый дешевый и надежный кроссовер Honda (XR-V) | https://avtonovostidnya.ru/avtorynok/420066-honda-xr-v | 24.08.2026 14:08
+- Бензин «Евро-2» вернулся: что теперь будут показывать водителям на российских АЗС | https://avtonovostidnya.ru/transport/419142/amp | 26.08.2026
+- В России массово продают автомобили со скидками до 30%. В чем суть | https://avtonovostidnya.ru/avtorynok/420152 | 26.08.2026
+- «Атмосферник» и богатая комплектация: в России начали продавать новый кроссовер за 1,1 млн рублей (Toyota Raize) | https://avtonovostidnya.ru/avtorynok/419943 | 25.08.2026
+- Changan начал распродажу в России: какой кроссовер получили скидку (Uni-K) | https://avtonovostidnya.ru/avtorynok/420054-changan-uni-k | 26.08.2026
