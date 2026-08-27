@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-26T16:00:41.425679Z"
+    "lastPublishAt": "2026-08-27T07:00:38.666012Z"
   },
   "posts": [
     {
@@ -740,11 +740,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/420066-honda-xr-v",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-24T14:08:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-08-27T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-27T07:00:37.165362Z",
+      "telegramMessageId": 118611,
       "error": null
     }
   ]
