@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-28T16:00:42.321194Z"
+    "lastPublishAt": "2026-08-29T07:00:39.738044Z"
   },
   "posts": [
     {
@@ -804,11 +804,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/420054-changan-uni-k",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-08-26T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-08-29T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-29T07:00:38.237497Z",
+      "telegramMessageId": 118992,
       "error": null
     }
   ]
