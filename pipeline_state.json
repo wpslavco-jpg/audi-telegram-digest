@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-29T07:00:39.738044Z"
+    "lastPublishAt": "2026-08-31T07:00:42.312895Z"
   },
   "posts": [
     {
@@ -820,11 +820,11 @@
       "linkUrl": "https://lenta.ru/news/2026/08/28/v-rossii-rezko-podesheveli-mashiny-kitayskoy-marki-vgv/",
       "source": "lenta.ru",
       "publishedAtSource": "2026-08-28T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-08-31T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-31T07:00:40.812250Z",
+      "telegramMessageId": 119201,
       "error": null
     },
     {
