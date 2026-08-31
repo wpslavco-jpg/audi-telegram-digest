@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-07-08T21:00:00+03:00",
-    "lastPublishAt": "2026-08-31T07:00:42.312895Z"
+    "lastPublishAt": "2026-08-31T16:00:49.878912Z"
   },
   "posts": [
     {
@@ -836,11 +836,11 @@
       "linkUrl": "https://www.ixbt.com/news/2026/08/29/431113-s-casticnoi-ocinkovkoi-poduskoi-bezopasnosti-i-novym-motorom-18-startovali-prodazi-obnovlennoi-lada-niva-legend.html",
       "source": "ixbt.com",
       "publishedAtSource": "2026-08-29T00:00:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-08-31T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-08-31T16:00:48.378000Z",
+      "telegramMessageId": 119308,
       "error": null
     }
   ]
