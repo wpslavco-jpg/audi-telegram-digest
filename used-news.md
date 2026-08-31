@@ -52,3 +52,5 @@
 - В России массово продают автомобили со скидками до 30%. В чем суть | https://avtonovostidnya.ru/avtorynok/420152 | 26.08.2026
 - «Атмосферник» и богатая комплектация: в России начали продавать новый кроссовер за 1,1 млн рублей (Toyota Raize) | https://avtonovostidnya.ru/avtorynok/419943 | 25.08.2026
 - Changan начал распродажу в России: какой кроссовер получили скидку (Uni-K) | https://avtonovostidnya.ru/avtorynok/420054-changan-uni-k | 26.08.2026
+- В России резко подешевели машины китайской марки VGV | https://lenta.ru/news/2026/08/28/v-rossii-rezko-podesheveli-mashiny-kitayskoy-marki-vgv/ | 28.08.2026
+- Стартовали продажи обновленной Lada Niva Legend с новым мотором 1.8 (90 л.с.) | https://www.ixbt.com/news/2026/08/29/431113-s-casticnoi-ocinkovkoi-poduskoi-bezopasnosti-i-novym-motorom-18-startovali-prodazi-obnovlennoi-lada-niva-legend.html | 29.08.2026
