@@ -54,3 +54,7 @@
 - Changan начал распродажу в России: какой кроссовер получили скидку (Uni-K) | https://avtonovostidnya.ru/avtorynok/420054-changan-uni-k | 26.08.2026
 - В России резко подешевели машины китайской марки VGV | https://lenta.ru/news/2026/08/28/v-rossii-rezko-podesheveli-mashiny-kitayskoy-marki-vgv/ | 28.08.2026
 - Стартовали продажи обновленной Lada Niva Legend с новым мотором 1.8 (90 л.с.) | https://www.ixbt.com/news/2026/08/29/431113-s-casticnoi-ocinkovkoi-poduskoi-bezopasnosti-i-novym-motorom-18-startovali-prodazi-obnovlennoi-lada-niva-legend.html | 29.08.2026
+- УАЗ Патриот получит новое имя "Патриот Х" и дизель | https://avtonovostidnya.ru/novinki/420786-uaz | 03.09.2026 15:28
+- Праворульный Honda WR-V с клиренсом почти как у Нивы | https://avtonovostidnya.ru/avtorynok/420732-honda | 03.09.2026 09:53
+- Belgee X50+ снова подорожал на 20 тысяч рублей | https://avtonovostidnya.ru/avtorynok/420683-belgee-x50 | 03.09.2026 08:46
+- Москвич М70 получит голосового ИИ-помощника | https://avtonovostidnya.ru/avtoprom/420675-moskvich-70 | 02.09.2026 22:12
