@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-09-03T20:10:00+03:00",
-    "lastPublishAt": "2026-08-31T16:00:49.878912Z"
+    "lastPublishAt": "2026-09-04T07:00:51.291908Z"
   },
   "posts": [
     {
@@ -852,11 +852,11 @@
       "linkUrl": "https://avtonovostidnya.ru/novinki/420786-uaz",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-09-03T15:28:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-09-04T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-09-04T07:00:49.791247Z",
+      "telegramMessageId": 119964,
       "error": null
     },
     {
