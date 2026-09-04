@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-09-03T20:10:00+03:00",
-    "lastPublishAt": "2026-09-04T07:00:51.291908Z"
+    "lastPublishAt": "2026-09-04T16:00:53.545377Z"
   },
   "posts": [
     {
@@ -868,11 +868,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/420732-honda",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-09-03T09:53:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-09-04T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-09-04T16:00:52.044611Z",
+      "telegramMessageId": 120005,
       "error": null
     },
     {
