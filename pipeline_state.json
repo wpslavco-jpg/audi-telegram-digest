@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-09-05T13:00:00+03:00",
-    "lastPublishAt": "2026-09-05T07:00:49.960941Z"
+    "lastPublishAt": "2026-09-05T16:00:52.801848Z"
   },
   "posts": [
     {
@@ -900,11 +900,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtoprom/420675-moskvich-70",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-09-02T22:12:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-09-05T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-09-05T16:00:51.301164Z",
+      "telegramMessageId": 120024,
       "error": null
     },
     {
