@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-09-03T20:10:00+03:00",
-    "lastPublishAt": "2026-09-04T16:00:53.545377Z"
+    "lastPublishAt": "2026-09-05T07:00:49.960941Z"
   },
   "posts": [
     {
@@ -884,11 +884,11 @@
       "linkUrl": "https://avtonovostidnya.ru/avtorynok/420683-belgee-x50",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-09-03T08:46:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-09-05T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-09-05T07:00:48.460151Z",
+      "telegramMessageId": 120019,
       "error": null
     },
     {
