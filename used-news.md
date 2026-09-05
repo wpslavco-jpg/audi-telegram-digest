@@ -58,3 +58,7 @@
 - Праворульный Honda WR-V с клиренсом почти как у Нивы | https://avtonovostidnya.ru/avtorynok/420732-honda | 03.09.2026 09:53
 - Belgee X50+ снова подорожал на 20 тысяч рублей | https://avtonovostidnya.ru/avtorynok/420683-belgee-x50 | 03.09.2026 08:46
 - Москвич М70 получит голосового ИИ-помощника | https://avtonovostidnya.ru/avtoprom/420675-moskvich-70 | 02.09.2026 22:12
+- АвтоВАЗ вывел первый в истории кроссовер LADA Azimut на стресс-тест | https://avtonovostidnya.ru/avtoprom/420827-avtovaz-lada-azimut | 04.09.2026 10:55
+- Toyota Raize приехала в Россию дешевле Haval Jolion | https://avtonovostidnya.ru/avtorynok/420839-toyota-raize | 04.09.2026 15:19
+- Названы 7 самых продаваемых кроссоверов в России (Автостат, август 2026) | https://avtonovostidnya.ru/samye/420876-haval-jolion | 04.09.2026 16:46
+- Названы самые проблемные коробки передач на вторичке (Tiguan, Qashqai, Duster) | https://avtonovostidnya.ru/samye/420820 | 04.09.2026 08:33
