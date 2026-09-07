@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-09-05T13:00:00+03:00",
-    "lastPublishAt": "2026-09-07T07:00:53.652817Z"
+    "lastPublishAt": "2026-09-07T16:00:55.461195Z"
   },
   "posts": [
     {
@@ -964,11 +964,11 @@
       "linkUrl": "https://avtonovostidnya.ru/samye/420820",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-09-04T08:33:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "19:00",
       "scheduledFor": "2026-09-07T16:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-09-07T16:00:53.960610Z",
+      "telegramMessageId": 120273,
       "error": null
     }
   ]
