@@ -8,7 +8,7 @@
       "19:00"
     ],
     "lastParseAt": "2026-09-05T13:00:00+03:00",
-    "lastPublishAt": "2026-09-06T16:00:55.135489Z"
+    "lastPublishAt": "2026-09-07T07:00:53.652817Z"
   },
   "posts": [
     {
@@ -948,11 +948,11 @@
       "linkUrl": "https://avtonovostidnya.ru/samye/420876-haval-jolion",
       "source": "avtonovostidnya.ru",
       "publishedAtSource": "2026-09-04T16:46:00+03:00",
-      "status": "ожидает",
+      "status": "опубликовано",
       "slot": "10:00",
       "scheduledFor": "2026-09-07T07:00:00Z",
-      "sentAt": null,
-      "telegramMessageId": null,
+      "sentAt": "2026-09-07T07:00:52.152070Z",
+      "telegramMessageId": 120057,
       "error": null
     },
     {
